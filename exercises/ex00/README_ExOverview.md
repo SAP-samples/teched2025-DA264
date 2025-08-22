@@ -16,10 +16,8 @@ We structured the overall exercise the following way:
    We also give you guidance on how to [get your basic trial access](README_BasicTrial.md) in case you do not have access to a SAP Business Data Cloud system already. 
    
    If you have never touched an SAP Business Data Cloud or SAP Datasphere system you can get an overview about your [first log on](README_FirstLogon.md) and how you navigate in the system. 
-
-## 2. **SAP Business Data Cloud**
 	
-## 3. **SAP Datasphere**
+## 2. **SAP Datasphere**
    
    This section covers the main modeling exercises where you prepare tables, views and an analytic model to build the foundation for the stories in SAP Analytics Cloud.
 
@@ -29,7 +27,7 @@ We structured the overall exercise the following way:
    
    Then you populate the tables with data by [uploading data files](../ex05/README.md) using the CSV files from the ZIP file. Based on these tables you then [create a dimension view](../ex06/README.md) as well as a [fact view and an analytic model](../ex07/README.md).
 	
-## 4. **SAP Analytics Cloud**
+## 3. **SAP Analytics Cloud**
 
    In this part you will create simple stories in SAP Analytics Cloud to learn how to visualize your data based on a live connection to SAP Datasphere. The first story shows the [Top 10 Revenue Generating Products](../ex08/README.md) and the second the [Revenue by Geography](../ex09/README.md). Both require the previous exercises to be completed up to exercise 08. 
    
