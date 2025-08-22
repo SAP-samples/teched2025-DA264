@@ -21,7 +21,7 @@ We structured the overall exercise the following way:
    
    This section covers the main modeling exercises where you prepare tables, views and an analytic model to build the foundation for the stories in SAP Analytics Cloud.
 
-   In the first exercise [Get to know your own Space](../ex01/README.md) you learn more about the concdpt of Spaces and the ***Time Dimension*** required for your modeling in later parts of the exercise.
+   In the first exercise [Get to know your own Space](../ex01/README.md) you learn more about the concept of Spaces and the ***Time Dimension*** required for your modeling in later parts of the exercise.
 	  
    You can [manually create the tables](../ex02/README.md) and the [entity relationship model](../ex03/README.md), or directly generate the tables and ER model by using the [importing the tables](../ex04/README.md) provided with the [CSN file](https://cap.cloud.sap/docs/cds/csn) called *Sales_ER_Model.json*.
    
