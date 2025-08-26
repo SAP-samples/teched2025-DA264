@@ -13,15 +13,15 @@ We structured the overall exercise the following way:
    
    In this area you get an [overview about the business scenario & the data model](README.md) used throughout the exercises.
    
-   We also give you guidance on how to [get your basic trial access](README_BasicTrial.md) in case you do not have access to a SAP Datasphere system already. 
+   We also give you guidance on how to [get your basic trial access](README_BasicTrial.md) in case you do not have access to a SAP Business Data Cloud system already. 
    
-   If you have never touched an SAP Datasphere system you can get an overview about your [first log on](README_FirstLogon.md) and how you navigate in the system. 
+   If you have never touched an SAP Business Data Cloud or SAP Datasphere system you can get an overview about your [first log on](README_FirstLogon.md) and how you navigate in the system. 
 	
 ## 2. **SAP Datasphere**
    
    This section covers the main modeling exercises where you prepare tables, views and an analytic model to build the foundation for the stories in SAP Analytics Cloud.
 
-   In the first exercise [Get to know your own Space](../ex01/README.md) you learn more about the concdpt of Spaces and the ***Time Dimension*** required for your modeling in later parts of the exercise.
+   In the first exercise [Get to know your own Space](../ex01/README.md) you learn more about the concept of Spaces and the ***Time Dimension*** required for your modeling in later parts of the exercise.
 	  
    You can [manually create the tables](../ex02/README.md) and the [entity relationship model](../ex03/README.md), or directly generate the tables and ER model by using the [importing the tables](../ex04/README.md) provided with the [CSN file](https://cap.cloud.sap/docs/cds/csn) called *Sales_ER_Model.json*.
    
