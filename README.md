@@ -17,7 +17,7 @@ Find out how SAP Datasphere helps line-of-business users get the job done. Disco
 
 ## Requirements
 
-* another bullet
+* another bullet point
 
 * Google Chrome Browser or Microsoft Edge based on the Chromium engine
 * Access to this GitHub repository 
