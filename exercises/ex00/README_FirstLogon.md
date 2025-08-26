@@ -31,16 +31,20 @@
 
 9. If you click on Open Application on the right corner, you will be navigated directly to the Intelligent Application in SAP Analytics Cloud tenant
 <br>![](images/00_00_0025.png)
+
 The Intelligent Application in SAP Analytics Cloud is illustrated below
 <br>![](images/00_00_0026.png)
 
 11. Navigate to System Landscape tab and click on the URL for SAP Datasphere Tenant
 <br>![](images/00_00_0023.png)
 
-7. The bottom part of the menu shows the administrative apps.  
-<br>![](images/00_00_0014.png)
+12. Similarly, in the top left of the start screen you will find the menu options of SAP Datasphere.
+<br>![](images/00_00_0027.png)
 
-8. Now let’s explain the different areas:  
+13. The bottom part of the menu shows the administrative apps.  
+<br>![](images/00_00_0028.png)
+
+14. Now let’s explain the different areas:  
 
 | Menu Items:              | Description:                            |
 |:-------------------------|:----------------------------------------|
@@ -53,7 +57,7 @@ The Intelligent Application in SAP Analytics Cloud is illustrated below
 | Data Integration Monitor | Monitor remote tables, persisted views, flows and task chains |
 | Connections              | Create connections to source systems to allow accessing and importing data into SAP Datasphere |
 
-7. Now let’s take a look at the menu items from the administrative section:  
+15. Now let’s take a look at the menu items from the administrative section:  
 
 
 | Menu Items:               | Description:                              |
@@ -66,8 +70,8 @@ The Intelligent Application in SAP Analytics Cloud is illustrated below
 
 As the administrator role is not assigned to your user in the basic trial, you do not have access to the tools ***Security*** (manage users, roles and monitor activities), ***System Monitor*** (monitor the performance of your system and identify storage, task, out-of-memory, and other issues) and ***Configuration*** & ***Administration*** (e.g., manage certificates, audit settings, identity providers and components like Cloud Connector).
 
-8. When you now navigate to the top right corner, please click on the icon to launch the Help dialog. In the Help dialog you have multiple options from some Quick Start help to reach out to our support team.  
-<br>![](images/00_00_0017.png)
+16. When you now navigate to the top right corner, please click on the icon to launch the Help dialog. In the Help dialog you have multiple options from some Quick Start help to reach out to our support team.  
+<br>![](images/00_00_0029.png)
 
 
 
