@@ -24,7 +24,17 @@
 | Search                                    | Search for a specific Data Package or Intelligent Application |
 | System Landscape                          | Check the different systems provisioned within your Business Data Cloud tenant and navigate directly through tenant URLs. |
 
-7. Navigate to System Landscape tab and click on the URL for SAP Datasphere Tenant
+7. Navigate to Intelligent Application and Data Packages tab, and click on Installed to display the pre-installed Intelligent Application, Working Capital Insight, and click on it
+
+8. Here, you can find details about the Intelligent Application and the different Data Products associated to it.
+<br>![](images/00_00_0024.png)
+
+9. If you click on Open Application on the right corner, you will be navigated directly to the Intelligent Application in SAP Analytics Cloud tenant
+<br>![](images/00_00_0025.png)
+The Intelligent Application in SAP Analytics Cloud is illustrated below
+<br>![](images/00_00_0026.png)
+
+11. Navigate to System Landscape tab and click on the URL for SAP Datasphere Tenant
 <br>![](images/00_00_0023.png)
 
 7. The bottom part of the menu shows the administrative apps.  
