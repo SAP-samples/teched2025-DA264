@@ -1,4 +1,4 @@
-# Your First Log On 
+# Your First Log On with BDC
 
 > :memo: **Note:** This is an Optional Exercise
 
