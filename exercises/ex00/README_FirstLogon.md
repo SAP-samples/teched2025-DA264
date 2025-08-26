@@ -14,7 +14,7 @@
 <br>![](images/00_00_0020.png)
 
 5. By clicking on the menu in the top left (the hamburger icon), you can expand the menu to also show the menu text.  
-<br>![](images/00_00_0020.png)
+<br>![](images/00_00_0021.png)
 
 6. Now let's explain the usefulness of the different tabs
 
