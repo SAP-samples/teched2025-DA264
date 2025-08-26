@@ -17,8 +17,6 @@ Find out how SAP Datasphere helps line-of-business users get the job done. Disco
 
 ## Requirements
 
-* another bullet point
-
 * Google Chrome Browser or Microsoft Edge based on the Chromium engine
 * Access to this GitHub repository 
 * Access to any SAP Datasphere and SAP Analytics Cloud system. In case you do not have access you can use a basic trial. The optional exercise #23 is only working using a basic trial.
