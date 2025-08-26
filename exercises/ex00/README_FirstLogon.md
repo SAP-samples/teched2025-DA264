@@ -1,25 +1,36 @@
-# Your First Log On with BDC
+# Your First Log On
 
 > :memo: **Note:** This is an Optional Exercise
 
 ---
 
-1. Open Google Chrome or Microsoft Edge and log on to your SAP Datasphere system.
-<br>![](images/00_00_0015.png)
+1. Open Google Chrome or Microsoft Edge and log on to your SAP Business Data Cloud system.
+<br>![](images/00_00_0019.png)
 
-2. In case you get the following pop-up message, use the ***CLOSE*** button to get to the start screen. 
-<br>![](images/manage_settings.png)
+2. Once logged in, you will be able to see Business Data Cloud Cockpit
+<br>![](images/00_00_0022.png)
 
-3. In the top left of the start screen you will find the menu options.  
-<br>![](images/00_00_0016.png)
+4. In the top left of the start screen you will find the menu options.  
+<br>![](images/00_00_0020.png)
 
-4. By clicking on the menu in the top left (the hamburger icon), you can expand the menu to also show the menu text.  
-<br>![](images/00_00_0012.png)
+5. By clicking on the menu in the top left (the hamburger icon), you can expand the menu to also show the menu text.  
+<br>![](images/00_00_0020.png)
 
-5. The bottom part of the menu shows the administrative apps.  
+6. Now let's explain the usefulness of the different tabs
+
+| Menu Items:                               | Description:                            |
+|:------------------------------------------|:----------------------------------------|
+| Intelligent Applications and Data Packages| Browse Available Intelligent Applications and Data Packages and navigate to Installed tab to check what have been installed already |
+| Search                                    | Search for a specific Data Package or Intelligent Application |
+| System Landscape                          | Check the different systems provisioned within your Business Data Cloud tenant and navigate directly through tenant URLs. |
+
+7. Navigate to System Landscape tab and click on the URL for SAP Datasphere Tenant
+<br>![](images/00_00_0023.png)
+
+7. The bottom part of the menu shows the administrative apps.  
 <br>![](images/00_00_0014.png)
 
-6. Now let’s explain the different areas:  
+8. Now let’s explain the different areas:  
 
 | Menu Items:              | Description:                            |
 |:-------------------------|:----------------------------------------|
