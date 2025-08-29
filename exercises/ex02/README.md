@@ -29,7 +29,7 @@ We will start to create the tables in SAP Datasphere.
 
 1. Log On to your SAP Datasphere tenant.</p>
 2. Select the menu option Data Builder on the left-hand side. In case you are being asked, select your space (e.g. GE12345)</p>
-3. Create a new folder to organize the entities you will create in this jump-start session by navigating to the "+"-icon on the right and enter "TECHED2024-DA264" as business name and confirm. A new folder is displayed in the object list.
+3. Create a new folder to organize the entities you will create in this jump-start session by navigating to the "+"-icon on the right and enter "TECHED2025-DA264" as business name and confirm. A new folder is displayed in the object list.
 <br>![](images/00_00_0001.png)
 
 4. Select the option ***New Table***.
@@ -77,7 +77,7 @@ Transaction ID.
 13. Now use the ***Save*** option in the General menu.
 <br>![](images/00_00_0035.png) 
   
-14. Select the folder "TECHED2024-DA264". On the first time you save the table, you will be asked to confirm the name and technical name.
+14. Select the folder "TECHED2025-DA264". On the first time you save the table, you will be asked to confirm the name and technical name.
 <br>![](images/00_00_0002.png) 
 
 15. Click ***Save***.
@@ -134,7 +134,7 @@ Language column.
 
 26. After you entered all columns for the table, ensure you enable the Key Column option for the column Store ID.
 27. Click ***Save*** in the General menu.
-28. Select the folder ***TECHED2024-DA264***. You will be asked to confirm the business name as well as the technical name.
+28. Select the folder ***TECHED2025-DA264***. You will be asked to confirm the business name as well as the technical name.
 29. Click ***Save***.
 30. Click ***Deploy*** in the General Menu.
 31. Navigate back to the list of tables. 
@@ -154,7 +154,7 @@ Language column.
   
 36. After you entered all columns for the table, ensure you enable the Key Column option for the column Product ID.
 37. Click ***Save*** in the General menu.
-38. Select the folder ***TECHED2024-DA264***. You will be asked to confirm the business name as well as the technical name.
+38. Select the folder ***TECHED2025-DA264***. You will be asked to confirm the business name as well as the technical name.
 39. Click ***Save***.
 40. Click ***Deploy*** in the General Menu.
 41. Click on the return arrow on the top menu bar to navigate back to the list of tables. 
@@ -175,7 +175,7 @@ Language column.
 46. After you entered all columns for the table, ensure you enable the Key Column option for the column Sales
 Manager ID.
 47. Click ***Save*** in the General menu.
-48. Select the folder ***TECHED2024-DA264***. You will be asked to confirm the business name as well as the Technical Name.
+48. Select the folder ***TECHED2025-DA264***. You will be asked to confirm the business name as well as the Technical Name.
 49. Click ***Save***.
 50. Click ***Deploy*** in the General Menu.
 51. Use the Back option in top menu or as an alternative you can click on your Space name to navigate back to the home screen of the Data Builder.
