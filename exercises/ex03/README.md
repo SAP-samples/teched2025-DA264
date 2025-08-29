@@ -30,7 +30,7 @@ Maintenance of associations and other capabilities of the E/R Model (like defini
 4. On the left-hand side you are presented with the local tables and views from your Repository. You also
 have the option to bring in tables from any remote sources configured.
 
-5. Ensure to select the option ***Repository*** and the folder ***TECHED2024-DA264***, so that you see the entities available. You should see the four tables that you created previously.
+5. Ensure to select the option ***Repository*** and the folder ***TECHED2025-DA264***, so that you see the entities available. You should see the four tables that you created previously.
 <br>![](images/00_00_0042.png)   
   
 6. Now drag and drop the table ***Sales Transactions*** to the canvas.
