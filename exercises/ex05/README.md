@@ -7,7 +7,7 @@ To explore the various connectivity options of SAP Datasphere, refer to [the det
 The files for this exercise are part of the ZIP file you downloaded at the beginning. We will now upload the CSV files into the corresponding tables.
 
 1. In your SAP Datasphere tenant select the menu option ***Data Builder*** on the left-hand side.
-2. Click on your folder `TECHED2024-DA180`.
+2. Click on your folder `TECHED2025-DA264`.
 3. Click on the table ***Sales Transactions***.
 4. Select the menu option ***Upload Data from CSV File*** in the toolbar.
 <br>![](images/00_00_0061.png) 
