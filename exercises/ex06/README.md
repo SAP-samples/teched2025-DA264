@@ -14,7 +14,7 @@ In this exercise, we will create a new view of the semantic type dimension based
     * ***Repository***: Here you have access to the local tables (imported data), Views, Intelligent Lookups and Shared Objects.
     * ***Sources***: Here you have access to respective objects from your connections.
 
-5. Ensure you select the option ***Repository*** and open the folder `TECHED2024-DA180`.
+5. Ensure you select the option ***Repository*** and open the folder `TECHED2025-DA264`.
 
 6. You are presented with the list of tables, which we created previously. Drag and drop the table ***Store*** to the canvas.
   
@@ -88,7 +88,7 @@ In this exercise, we will create a new view of the semantic type dimension based
 
 24. Click ***Close***.
  
-25. In the toolbar in the ***General*** menu, use the option to save your view in the folder `TECHED2024-DA180`.
+25. In the toolbar in the ***General*** menu, use the option to save your view in the folder `TECHED2025-DA264`.
 
 26. After saving your dimension view, ensure you deploy the view.
   
