@@ -10,14 +10,14 @@ So, let’s now look at the different asset types:
 - **Table**: Create a Table to contain data by defining its column structure. You can configure each field of the Table, and already define semantics and associations. You have the ability to upload data to this Table later on.</p>
 - **Graphical View**: In the Graphical View you can leverage Tables and Views to prepare data and then create new Views using a graphical no-code/low-code editor. Join datasets as required, add other operators to remove or create columns and filter or aggregate data, and specify measures and other aspects of your output structure in the output node. </p>
 - **SQL View**: In the SQL View you can leverage Tables and Views to the create new Views by using SQL or SQL-script (table function) view in a powerful SQL editor.
-<br>*Not used in the DA180 exercises.* </p>
+<br>*Not used in the DA264 exercises.* </p>
 - **Entity-Relationship Model**: Here you define the relationships between Tables or Views, which then are being leveraged when you create a new View based on the Tables or Views.</p>
 - **Analytic Model**: Analytic models are the analytical foundation for making data ready for consumption in SAP Analytics Cloud. They allow you to create and define multi-dimensional models to provide data for analytical purposes to answer different business questions. </p>
-- **Data Flow**: You define Data Flows to use data transformations and leverage the option to load data from a source system and persist it in SAP Datasphere. <br>*Not used in the DA180 exercises.*</p>
-- **Replication Flow**: Create a replication flow if you want to copy multiple data assets from the same source to the same target in a fast and easy way and do not require complex projections. <br>*Not used in the DA180 exercises.*</p>
+- **Data Flow**: You define Data Flows to use data transformations and leverage the option to load data from a source system and persist it in SAP Datasphere. <br>*Not used in the DA264 exercises.*</p>
+- **Replication Flow**: Create a replication flow if you want to copy multiple data assets from the same source to the same target in a fast and easy way and do not require complex projections. <br>*Not used in the DA264 exercises.*</p>
 - **Transformation  Flow**: Create a transformation flow if you want to load data from one or more source tables, apply transformations (such as a join), and output the result in a target table. You can load full or delta data sets of data from one or more source tables to a target table.
-- **Intelligent Lookup**: Create an intelligent lookup to merge data from two entities even if they do not have a common identifier. <br>*Not used in the DA180 exercises.*</p>
-- **Task Chain**: Create a task chain that groups multiple tasks, which can be run in series manually or through a schedule. <br>*Not used in the DA180 exercises.*</p>
+- **Intelligent Lookup**: Create an intelligent lookup to merge data from two entities even if they do not have a common identifier. <br>*Not used in the DA264 exercises.*</p>
+- **Task Chain**: Create a task chain that groups multiple tasks, which can be run in series manually or through a schedule. <br>*Not used in the DA264 exercises.*</p>
 
 ## End of Detour
 
@@ -29,7 +29,7 @@ We will start to create the tables in SAP Datasphere.
 
 1. Log On to your SAP Datasphere tenant.</p>
 2. Select the menu option Data Builder on the left-hand side. In case you are being asked, select your space (e.g. GE12345)</p>
-3. Create a new folder to organize the entities you will create in this jump-start session by navigating to the "+"-icon on the right and enter "TECHED2024-DA180" as business name and confirm. A new folder is displayed in the object list.
+3. Create a new folder to organize the entities you will create in this jump-start session by navigating to the "+"-icon on the right and enter "TECHED2024-DA264" as business name and confirm. A new folder is displayed in the object list.
 <br>![](images/00_00_0001.png)
 
 4. Select the option ***New Table***.
@@ -77,7 +77,7 @@ Transaction ID.
 13. Now use the ***Save*** option in the General menu.
 <br>![](images/00_00_0035.png) 
   
-14. Select the folder "TECHED2024-DA180". On the first time you save the table, you will be asked to confirm the name and technical name.
+14. Select the folder "TECHED2024-DA264". On the first time you save the table, you will be asked to confirm the name and technical name.
 <br>![](images/00_00_0002.png) 
 
 15. Click ***Save***.
@@ -134,7 +134,7 @@ Language column.
 
 26. After you entered all columns for the table, ensure you enable the Key Column option for the column Store ID.
 27. Click ***Save*** in the General menu.
-28. Select the folder ***TECHED2024-DA180***. You will be asked to confirm the business name as well as the technical name.
+28. Select the folder ***TECHED2024-DA264***. You will be asked to confirm the business name as well as the technical name.
 29. Click ***Save***.
 30. Click ***Deploy*** in the General Menu.
 31. Navigate back to the list of tables. 
@@ -154,7 +154,7 @@ Language column.
   
 36. After you entered all columns for the table, ensure you enable the Key Column option for the column Product ID.
 37. Click ***Save*** in the General menu.
-38. Select the folder ***TECHED2024-DA180***. You will be asked to confirm the business name as well as the technical name.
+38. Select the folder ***TECHED2024-DA264***. You will be asked to confirm the business name as well as the technical name.
 39. Click ***Save***.
 40. Click ***Deploy*** in the General Menu.
 41. Click on the return arrow on the top menu bar to navigate back to the list of tables. 
@@ -175,7 +175,7 @@ Language column.
 46. After you entered all columns for the table, ensure you enable the Key Column option for the column Sales
 Manager ID.
 47. Click ***Save*** in the General menu.
-48. Select the folder ***TECHED2024-DA180***. You will be asked to confirm the business name as well as the Technical Name.
+48. Select the folder ***TECHED2024-DA264***. You will be asked to confirm the business name as well as the Technical Name.
 49. Click ***Save***.
 50. Click ***Deploy*** in the General Menu.
 51. Use the Back option in top menu or as an alternative you can click on your Space name to navigate back to the home screen of the Data Builder.
