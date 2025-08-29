@@ -5,13 +5,13 @@ This exercise is only required in case you ***did not*** create the tables in [E
 
 ---
 
-The file for this exercise is `Sales_ER_Model.json` and the file is part of the [ZIP file](../../DA180_Resources.zip) you downloaded.
+The file for this exercise is `Sales_ER_Model.json` and the file is part of the [ZIP file](../../DA264_Resources.zip) you downloaded.
 
 We will now import the table definitions in form of a JSON file by importing a Entity-Relationship Model.
 
 1. Log On to your SAP Datasphere tenant.
 2. Select the menu option ***Data Builder*** on the left-hand side.
-3. Create a new folder to organize the entities you will create in this jump-start session. Enter `TECHED2024-DA180` as business name and confirm. A new folder is displayed in the object list.
+3. Create a new folder to organize the entities you will create in this jump-start session. Enter `TECHED2024-DA264` as business name and confirm. A new folder is displayed in the object list.
 <br>![](images/00_00_0001.png)
 
 4. Select the option ***New Entity–Relationship Model***.
@@ -33,7 +33,7 @@ We will now import the table definitions in form of a JSON file by importing a E
 
 11. Save the changes to your Entity Relationship model using the **Save** option in the upper left corner.
 
-12. Select the folder `TECHED2024-DA180` and enter the following details.<br><ul><li>Business Name: **Sales Model - Entity-Relationship Model**</li><li>Technical Name: **Sales_ER_Model**
+12. Select the folder `TECHED2024-DA264` and enter the following details.<br><ul><li>Business Name: **Sales Model - Entity-Relationship Model**</li><li>Technical Name: **Sales_ER_Model**
 <br>![](images/00_00_0047.png)
 <br>
   
