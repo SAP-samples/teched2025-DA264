@@ -24,27 +24,16 @@
 | Search                                    | Search for a specific Data Package or Intelligent Application |
 | System Landscape                          | Check the different systems provisioned within your Business Data Cloud tenant and navigate directly through tenant URLs. |
 
-7. Navigate to Intelligent Application and Data Packages tab, and click on Installed to display the pre-installed Intelligent Application, Working Capital Insight, and click on it
-
-8. Here, you can find details about the Intelligent Application and the different Data Products associated to it.
-<br>![](images/00_00_0024.png)
-
-9. If you click on Open Application on the right corner, you will be navigated directly to the Intelligent Application in SAP Analytics Cloud tenant
-<br>![](images/00_00_0025.png)
-
-The Intelligent Application in SAP Analytics Cloud is illustrated below
-<br>![](images/00_00_0026.png)
-
-11. Navigate to System Landscape tab and click on the URL for SAP Datasphere Tenant
+7. Navigate to System Landscape tab and click on the URL for SAP Datasphere Tenant
 <br>![](images/00_00_0023.png)
 
-12. Similarly, in the top left of the start screen you will find the menu options of SAP Datasphere.
+8. Similarly, in the top left of the start screen you will find the menu options of SAP Datasphere.
 <br>![](images/00_00_0027.png)
 
-13. The bottom part of the menu shows the administrative apps.  
+9. The bottom part of the menu shows the administrative apps.  
 <br>![](images/00_00_0028.png)
 
-14. Now let’s explain the different areas:  
+10. Now let’s explain the different areas:  
 
 | Menu Items:              | Description:                            |
 |:-------------------------|:----------------------------------------|
@@ -57,7 +46,7 @@ The Intelligent Application in SAP Analytics Cloud is illustrated below
 | Data Integration Monitor | Monitor remote tables, persisted views, flows and task chains |
 | Connections              | Create connections to source systems to allow accessing and importing data into SAP Datasphere |
 
-15. Now let’s take a look at the menu items from the administrative section:  
+11. Now let’s take a look at the menu items from the administrative section:  
 
 
 | Menu Items:               | Description:                              |
@@ -70,7 +59,7 @@ The Intelligent Application in SAP Analytics Cloud is illustrated below
 
 As the administrator role is not assigned to your user in the basic trial, you do not have access to the tools ***Security*** (manage users, roles and monitor activities), ***System Monitor*** (monitor the performance of your system and identify storage, task, out-of-memory, and other issues) and ***Configuration*** & ***Administration*** (e.g., manage certificates, audit settings, identity providers and components like Cloud Connector).
 
-16. When you now navigate to the top right corner, please click on the icon to launch the Help dialog. In the Help dialog you have multiple options from some Quick Start help to reach out to our support team.  
+12. When you now navigate to the top right corner, please click on the icon to launch the Help dialog. In the Help dialog you have multiple options from some Quick Start help to reach out to our support team.  
 <br>![](images/00_00_0029.png)
 
 
