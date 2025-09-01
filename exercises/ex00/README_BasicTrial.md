@@ -33,7 +33,7 @@ First you need to get your basic trial access of SAP Datasphere (mandatory). You
     You will also get an email with the same information.
 <br>![](images/09_BDC_welcome_trial_email.png)
 
-8.  Once you click on Start your basic trial, you will be navigated to the following page. Click on ***Start Workbook***
+8.  Once you click on ***Start your basic trial***, you will be navigated to the following page. Click on ***Start Workbook***
 <br>![](images/12_BDC_Workbook.png)
 
     You will get a brief introduction of SAP Business Data Cloud and its architecture, you can go through it and once done click on ***Continue*** to navigate to Log on to Business Data Cloud page.
