@@ -48,7 +48,7 @@ First you need to get your basic trial access of SAP Datasphere (mandatory). You
 
 9.  You can login to your guided experience trial tenant using the login details and the URL you have received.
 
-<br>![](images/10_DWC_trial_login.png)
+<br>![](images/10_BDC_trial_login.png)
 
 10.  After a successful login you get to the welcome screen.
 
