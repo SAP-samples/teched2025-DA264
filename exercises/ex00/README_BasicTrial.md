@@ -39,7 +39,7 @@ First you need to get your basic trial access of SAP Datasphere (mandatory). You
     You will get a brief introduction of SAP Business Data Cloud and its architecture, you can go through it and once done click on ***Continue*** to navigate to Log on to Business Data Cloud page.
 
 8.  In this page, you will get an idea about the objectives along with the persona involved and if you continue reading you will be presented with the tenant link that will navigate you to SAP Business Data Cloud trial.
-<br>![](images/13_BDC_LogOn_workbook.png)
+<br>![](images/13_BDC_LogOn_Workbook.png)
 
 9.  You can login to your guided experience trial tenant using the login details and the URL you have received.
 <br>![](images/10_BDC_trial_login.png)
