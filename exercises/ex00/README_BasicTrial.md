@@ -20,7 +20,6 @@ First you need to get your basic trial access of SAP Datasphere (mandatory). You
 
 4.  You then get an email to finalize the activation of your account. Activate your account by clicking on the button ***CLICK TO ACTIVATE YOUR ACCOUNT***
 <br>![](images/04_BDC_finalize_account_email.png)
-  
     Enter a password and click ***SUBMIT***.
 <br>![](images/05_BDC_finalize_account.png)
   
