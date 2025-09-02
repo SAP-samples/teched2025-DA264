@@ -50,7 +50,7 @@ have the option to bring in tables from any remote sources configured.
 <br>![](images/00_00_0047.png) 
 
 13. Now drag the table ***Product*** onto the canvas.
-14. Select the table ***Sales Transactions*** on the canvas. Drag and drop the ***arrow symbol*** to the table ***Products*** to create a new association between the table ***Sales Transactions*** and table ***Product***. Ensure that the join is based on the ***Product ID (Product ID)*** column.
+14. Select the table ***Sales Transactions*** on the canvas. Drag and drop the ***arrow symbol*** to the table ***Product*** to create a new association between the table ***Sales Transactions*** and table ***Product***. Ensure that the join is based on the ***Product ID (Product ID)*** column.
 <br>![](images/00_00_0048.png) 
 
 15. Now drag the table **Sales Manager** onto the canvas.
