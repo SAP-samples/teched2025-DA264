@@ -4,15 +4,7 @@
 
 ---
 
-## :beginner: Detour: SAP Datasphere - Spaces
-
-Spaces as part of the SAP Datasphere solution are virtual team environments where your administrator has the ability to assign users and roles, as well as additional resources, connections to data sources, and allocated storage. <br>
-In SAP Datasphere all data related workflows start with the selection of a space, so you can see the space is a fundamental concept. Users can share tables and view to another space to allow users assigned to that space to use it as a source for their objects.
-
-## End of Detour
-<br>
-
-## Get to know your own Space
+## Getting Started with Business Data Cloud Cockpit
 
 ---
 
@@ -37,6 +29,14 @@ In SAP Datasphere all data related workflows start with the selection of a space
 
 6. Click on the first space URL SAP_WCI. You will be navigated to the Space Properties in SAP Datasphere
 <br>![](images/00_00_0037.png)
+
+## :beginner: Detour: SAP Datasphere - Spaces
+
+Spaces as part of the SAP Datasphere solution are virtual team environments where your administrator has the ability to assign users and roles, as well as additional resources, connections to data sources, and allocated storage. <br>
+In SAP Datasphere all data related workflows start with the selection of a space, so you can see the space is a fundamental concept. Users can share tables and view to another space to allow users assigned to that space to use it as a source for their objects.
+
+## End of Detour
+<br>
 
 8. Alternatively, if you would like to check the different spaces available for you in the tenant, in the menu on the left-hand side, select the option ***Space Management***.
 <br>![](images/00_00_0021.png)
