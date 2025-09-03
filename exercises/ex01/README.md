@@ -1,6 +1,6 @@
 # Exercise 1: Getting Started with Business Data Cloud Cockpit and your SAP Datasphere Space
 
-> :memo: **Note:** This is an optional exercise.
+> :memo: **Note:** This is an OPTIONAL exercise.
 
 ---
 
