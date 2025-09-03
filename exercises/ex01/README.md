@@ -4,6 +4,14 @@
 
 ---
 
+## :beginner: Detour: SAP Business Data Cloud Cockpit 
+
+**Business Data Cloud Cockpit**: It is one of the core components of the SAP Business Data Cloud solution. SAP Business Data Cloud cockpit can be used to display and configure the SAP Business Data Cloud landscape and managing users and roles or to discover data products and intelligent applications, depending on the persona of the end-users.
+
+**Data product**: A data product is a dataset that contains both the raw business data and its metadata. The metadata includes interface definitions for data extraction, delta-load capabilities, and documentation describing the data product. It is self-describing enabling easy discovery and seamless consumption by any analytical application.
+
+**Intelligent Application**: Intelligent Applications are premium solutions in SAP Business Data Cloud that streamline data analytics from observation to action. They offer comprehensive dashboards, facilitate data analysis, and suggest viable actions while leveraging AI when applicable.
+
 ## Getting Started with Business Data Cloud Cockpit
 
 ---
