@@ -49,7 +49,7 @@ The exercises in section 4 are all optional. You can explore how to:
 	* [First Log On](exercises/ex00/README_FirstLogon.md) 
 	
 2. **SAP Datasphere**
-	* [Exercise 1: Get to know your own Space ](exercises/ex01/README.md) 
+	* [Exercise 1: Getting Started with Business Data Cloud Cockpit and your SAP Datasphere Space](exercises/ex01/README.md) 
 	* [Exercise 2: Prepare Your Data](exercises/ex02/README.md) (optional)
 	* [Exercise 3: Creating the Entity Relationship Model](exercises/ex03/README.md) (optional)
 	* [Exercise 4: Importing Tables ](exercises/ex04/README.md)
