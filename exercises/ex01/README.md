@@ -6,7 +6,7 @@
 
 ## :beginner: Detour: SAP Business Data Cloud Cockpit 
 
-**Business Data Cloud Cockpit**: It is one of the core components of the SAP Business Data Cloud solution. SAP Business Data Cloud cockpit can be used to display and configure the SAP Business Data Cloud landscape and managing users and roles or to discover data products and intelligent applications, depending on the persona of the end-users.
+**Business Data Cloud Cockpit**: It is one of the core components of the SAP Business Data Cloud solution. SAP Business Data Cloud cockpit can be used to display and configure the SAP Business Data Cloud landscape as well as the data products and intelligent applications, depending on the persona of the end-users.
 
 **Catalog and Marketplace**: The catalog unifies your organization’s data, providing a seamless one-stop-shop experience. It enables a complete and connected view of all data sources, build and apply governance standards, and offers trusted, self-service data discovery for all users.
 
