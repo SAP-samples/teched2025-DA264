@@ -8,7 +8,7 @@
 
 **Business Data Cloud Cockpit**: It is one of the core components of the SAP Business Data Cloud solution. SAP Business Data Cloud cockpit can be used to display and configure the SAP Business Data Cloud landscape as well as the data products and intelligent applications, depending on the persona of the end-users.
 
-**Catalog and Marketplace**: The catalog unifies your organization’s data, providing a seamless one-stop-shop experience. It enables a complete and connected view of all data sources, build and apply governance standards, and offers trusted, self-service data discovery for all users.
+**Search**: The catalog unifies your organization’s data, providing a seamless one-stop-shop experience. It enables a complete and connected view of all data sources, build and apply governance standards, and offers trusted, self-service data discovery for all users.
 
 **Data product**: A data product is a dataset that contains both the raw business data and its metadata. The metadata includes interface definitions for data extraction, delta-load capabilities, and documentation describing the data product. It is self-describing enabling easy discovery and seamless consumption by any analytical application.
 
