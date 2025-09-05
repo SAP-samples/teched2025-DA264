@@ -60,15 +60,15 @@ In this exercise, you will learn how to use the data preview of the Analytic Mod
 14. Before previewing the result, let’s look at the new ***Measure Dependencies*** feature in SAP Datasphere. It shows the relationships between measures, attributes, and variables for a clearer and more concise view of the model.
 Open the Analytic Model details and click the arrow next to the new measure ***Profit-JanetBury***.
 
-   ![](images/00_00_0011.png)
+    ![](images/00_00_0011.png)
    
 15. On the right corner, click on the icon for ***Measure Dependencies***
 
-   ![](images/00_00_0012.png)
+    ![](images/00_00_0012.png)
    
 Now you will be able to see what this particular measure is dependant on, with icons representing relationshiops between Measures (black), Attribute/Variables (purple). 
 
-   ![](images/00_00_0013.png)
+    ![](images/00_00_0013.png)
 
 16. Close ***Measure Dependencies*** tab and Open the ***Preview*** in the upper-right corner. This is an analytical preview that allows you to navigate through various dimensions and view the aggregated data. It provides a glimpse of how the data will appear in an SAP Analytics Cloud story.  
 
