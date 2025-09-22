@@ -53,7 +53,7 @@ You can specify the following [types of hierarchies](https://help.sap.com/docs/S
 
     ![](images/00_00_0003.png) 
 
-9. Save and deploy your hierarchy table in the folder `TECHED2024-DA180`. 
+9. Save and deploy your hierarchy table in the folder `TECHED2025-DA264`. 
 
 10. Download the :file_folder: CSV file [`data_hierarchy_productcategories.csv`](data/data_hierarchy_productcategories.csv) and upload the data to the table.
 
@@ -92,7 +92,7 @@ A permission entity (view or table) lists SAP Datasphere user IDs (in the form r
 
     ![](images/00_00_0007.png) 
 
-5. Save and deploy the table in the folder `TECHED2024-DA180`.
+5. Save and deploy the table in the folder `TECHED2025-DA264`.
 
 6. After the table is deployed, open the data editor to add records.
 
@@ -131,7 +131,7 @@ We want to protect the data of our sales transactions based on this parent-child
 
     ![](images/00_00_0009.png)
 
-5. Save and deploy your new Data Access Control entity in the folder `TECHED2024-DA180`.
+5. Save and deploy your new Data Access Control entity in the folder `TECHED2025-DA264`.
 
 ## Apply the Data Access Control Entity to a View
 1. Open your previously created view ***Sales View – Fact*** (***`Sales_View__Fact`***).

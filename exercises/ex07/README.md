@@ -42,7 +42,7 @@ The advantage of defining a view as a wrapper for the source table is that the d
 
 5. Ensure you select the option ***Repository***.
 
-6. Open the folder `TECHED2024-DA180`.
+6. Open the folder `TECHED2025-DA264`.
 
 7. You are presented with the list of tables, which we created previously.
 
@@ -87,7 +87,7 @@ The advantage of defining a view as a wrapper for the source table is that the d
 
 18. As we created a new dimension view to add a column containing geographic coordinates, create a new association by selecting ***Association*** after clicking on the **"+"** icon next to the Associations section. 
 
-19. Choose ***Dimension Store*** (View - Dimension) from the folder `TECHED2024-DA180`, and click on ***Select***.
+19. Choose ***Dimension Store*** (View - Dimension) from the folder `TECHED2025-DA264`, and click on ***Select***.
 
     ![](images/00_00_0002.png)   
 
@@ -95,7 +95,7 @@ The advantage of defining a view as a wrapper for the source table is that the d
 
     ![](images/00_00_0003.png)   
 
-21. Save the view in the folder `TECHED2024-DA180`. You will be asked to confirm and ***Save*** the Business Name and Technical Name.
+21. Save the view in the folder `TECHED2025-DA264`. You will be asked to confirm and ***Save*** the Business Name and Technical Name.
 
 22. Deploy your view.
 
@@ -109,7 +109,7 @@ The advantage of defining a view as a wrapper for the source table is that the d
 
     ![](images/00_00_0004.png)
 
-25. ***Save*** and ***Deploy*** your Analytic Model with the business name ***Sales - Analytic Model*** (the technical name is generated). Select the folder `TECHED2024-DA180`.
+25. ***Save*** and ***Deploy*** your Analytic Model with the business name ***Sales - Analytic Model*** (the technical name is generated). Select the folder `TECHED2025-DA264`.
 
 > :memo: **Note:** The following steps are OPTIONAL
 
