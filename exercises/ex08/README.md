@@ -17,15 +17,14 @@ In this exercise, we will create a story in SAP Analytics Cloud (SAC), which all
 
     ![](images/00_00_0201.png) 
 
-
-4. To select the model that you want to reference in your story:
+4. Select a Chart from the available list of widget for it to populate on the canvas
+5. To select the model that you want to reference in your story:
     - Select `Datasphere` as the connection on the left panel.
     - Select your space, e.g., `GE123456`, and the folder `TECHED2025-DA264`.
     - For our first example, select your `Sales - Analytic Model`.
 
     ![](images/00_00_0205B.png)
 
-5. Now select the newly created empty chart on the canvas.
 
 6. Navigate to the ***Builder*** panel on the right-hand side.
 
