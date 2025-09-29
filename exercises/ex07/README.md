@@ -111,26 +111,6 @@ The advantage of defining a view as a wrapper for the source table is that the d
 
 25. ***Save*** and ***Deploy*** your Analytic Model with the business name ***Sales - Analytic Model*** (the technical name is generated). Select the folder `TECHED2025-DA264`.
 
-> :memo: **Note:** The following steps are OPTIONAL
-
-26. Navigate to ***Data Integration Monitor*** tab in the menu options
-
-    ![](images/00_00_0890.png)
-
-27. Navigate to ***Views*** tab, click on ***All Views*** and select the Sales Fact table created in the earlier steps of this exercise. On the right corner, click on ***Data Persistence*** and select ***Start View Analyzer*** option from the drop down menu
-
-    ![](images/00_00_0892.png)
-    
-29. In the ***View Analyzer Settings*** popup, make sure to tick ***Generate Explain Plan*** and click on ***Start***
-
-    ![](images/00_00_0893.png)
- 
-32. Once the explain plan is generated, you can directly display the details with View Details. You can expand or collapse rows to view specific details or click the settings button to choose a specific column to view.
-
-    ![](images/00_00_0894.png)
-
-The View Analyzer provides statistics on all entities in a view, helping you optimize the data model and decide which views to persist to address performance or technical issues.
-
 ## Summary
 
 You have now created and deployed your first fact-based view and Analytic Model. The Analytic Model can now be consumed within SAP Analytics Cloud to answer different business questions.
