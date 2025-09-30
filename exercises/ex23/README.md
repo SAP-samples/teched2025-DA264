@@ -32,7 +32,7 @@ This functionality is beneficial for development activities when you need to tra
 5. Click on the ***View Transform*** node and select the ***Graphical View Transform*** option.
 <br>![](images/00_00_0003.png)  
 
-6. Drag and drop the table ***TECHED2024_SALES_TRANSACTIONS*** into the editor. The details on the right-hand side display that this shared table is capturing delta. (If you don't see this table, ensure that you are in the ***Graphical View Editor***.)
+6. Drag and drop the table ***TECHED2025_SALES_TRANSACTIONS*** into the editor. The details on the right-hand side display that this shared table is capturing delta. (If you don't see this table, ensure that you are in the ***Graphical View Editor***.)
 <br>![](images/00_00_0004_1.png)  
 
 7. If you scroll down, ensure that ***Load from Table*** is set to ***Delta Capture***. As the delta capture setting is enabled for the source table, the columns ***Change Date*** and ***Change Type*** are automatically mapped to these columns in the target table. Mapping these columns (or a calculated column that contains the content of these columns) to any other target column is not permitted. 
@@ -47,13 +47,13 @@ This functionality is beneficial for development activities when you need to tra
 10. Click on ***Create New Target Table***.
 <br>![](images/00_00_0008.png)  
 
-11. Set the business name to ***TRANSFORMED_TECHED2024_SALES_TRANSACTIONS***. Verify that ***Delta Capture*** is turned on.
+11. Set the business name to ***TRANSFORMED_TECHED2025_SALES_TRANSACTIONS***. Verify that ***Delta Capture*** is turned on.
 <br>![](images/00_00_0009.png)  
 
 12. Deselect the target table by clicking somewhere else in the editor field. The properties for the Transformation Flow will appear on the right-hand side. Set the business name to ***TF_SalesTransactions*** and the Load Type to ***Initial and Delta***.
 <br>![](images/00_00_0010.png)  
 
-13. Save and deploy the Transformation Flow in the folder TECHED2024-DA180, afterward click on ***Run***.
+13. Save and deploy the Transformation Flow in the folder TECHED2025-DA264, afterward click on ***Run***.
 <br>![](images/00_00_0011.png)  
 
 14. Open the Data Integration Monitor to have a look at the Transformation Flow run.
