@@ -28,7 +28,10 @@ In this exercise, you will learn how to use the data preview of the Analytic Mod
 
     This view focuses on data movements and transformations, showing the flow from the local table containing sales transactions to the view and the Analytic Model.  
 
+    >:memo: **Note:** Lineage might look different if you haven't done optional [exercise21](../ex21/README.md). 
+
     ![](images/00_00_0002.png)  
+
 
 6. Switch to the ***Dependency Analysis*** diagram to display objects connected through associations (and data access controls, if defined). Here, you can view the lineage of the associations, such as the time dimension.
 
