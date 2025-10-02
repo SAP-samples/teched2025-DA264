@@ -105,9 +105,9 @@ There is one result for each rule and it shows the following information:
 
    ![](images/00_00_0778.png)  
  
-28. In the toolbar in the ***General*** menu, use the option to save your view in the folder `TECHED2025-DA264`.
+27. In the toolbar in the ***General*** menu, use the option to save your view in the folder `TECHED2025-DA264`.
 
-29. After saving your dimension view, ensure you deploy the view.
+28. After saving your dimension view, ensure you deploy the view.
   
     ![](images/00_00_0776.png) 
 
