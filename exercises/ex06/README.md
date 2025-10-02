@@ -94,16 +94,16 @@ In this exercise, we will create a new view of the semantic type dimension based
 26. Once validation is complete, you can review the Keys, Data Types, and Hierarchies defined in this dimension. This is the ***Data Validation Framework*** in SAP Datasphere, providing initial validation rules to check the consistency of your view key columns and hierarchy nodes.
 There is one result for each rule and it shows the following information:
 
-| Column             | Description                                                                                                        |
-|:-------------------|:------------------------------------------------------------------------------------------------------------------:|
-| Category           | Displays the name of the validation rule category.                                                                 |
-| Rule               | Displays the name of the validation rule.                                                                          |
-| Object             | Displays the name of the object being validated.                                                                   |
-| Message            | Displays the number of records that are not consistent with the rule. Click Details to see further information     |
+   | Column             | Description                                                                                                        |
+   |:-------------------|:------------------------------------------------------------------------------------------------------------------:|
+   | Category           | Displays the name of the validation rule category.                                                                 |
+   | Rule               | Displays the name of the validation rule.                                                                          |
+   | Object             | Displays the name of the object being validated.                                                                   |
+   | Message            | Displays the number of records that are not consistent with the rule. Click Details to see further information     |
 
-The result of the Validation for ***Dimension Store*** is displayed as follows:
+  The result of the Validation for ***Dimension Store*** is displayed as follows:
 
-  ![](images/00_00_0778.png) 
+   ![](images/00_00_0778.png)  
  
 28. In the toolbar in the ***General*** menu, use the option to save your view in the folder `TECHED2025-DA264`.
 
