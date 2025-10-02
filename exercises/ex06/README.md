@@ -31,7 +31,7 @@ In this exercise, we will create a new view of the semantic type dimension based
     * ***Technical Name***: Dimension_Store
     * ***Semantic Usage***: Dimension
 
-      ![](images/00_00_0778.png)   
+      ![](images/00_00_0779.png)   
  
 10. Now click on the table ***Store*** on the canvas.
 
