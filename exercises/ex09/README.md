@@ -40,7 +40,7 @@ In this exercise, we will set up a story in SAP Analytics Cloud that allows us t
 
 9.  To select the model that you want to reference in your story:
 
-      - Select `Datasphere` as the connection on the left panel.
+      - Select `SAPSRC` as the connection on the left panel.
       - Select your space, e.g., `GE123456`, and the folder `TECHED2025-DA264`.
       - For our first example, select your `Sales - Analytic Model`.
     
