@@ -75,7 +75,7 @@ This functionality is beneficial for development activities when you need to tra
 <br>![](images/00_00_0021.png)  
 
 20. The Analytic Model used until now (Sales__Analytic_Model) is based on data of local tables. We will copy the fact model and replace the source so that the sales transaction data is coming from the table updated via the transformation flow instead of data imported once via CSV. Copy the view ***Sales View - Fact***. Name it ***Sales View - Fact (Updated)***.
-<br>![](images/00_00_0022.png)  
+<br>![](images/00_00_0021.5.png)  
 
 ---
 >:bulb: **Tip:** We create a copy of the fact view (and Analytic Model & SAC story) to preserve the previously created models based on the CSV files. You will copy the existing SAC story and replace the model so that you don't need to recreate a full story. Another option would also be switching the source table of the currently used fact view so that the updated records are displayed in the already existing SAC story. 
@@ -101,7 +101,7 @@ This functionality is beneficial for development activities when you need to tra
 27. When creating an updated data model, it is likely that measure or attribute names change. To simulate this, select the measure ***Revenue*** and adjust the business and technical name to ***Updated_Revenue***.  
 <br>![](images/00_00_0042.png) 
 
-28. Save the Analytic Model as ***Sales - Analytic Model (Updated)*** in the folder **TECHED2024-DA180**. You need to confirm the warning "Renaming measure technical name might affect existing stories" once before saving and deploying the model. The Analytic Model is now accessing delta enabled local table which is receiving updated records. 
+28. Save the Analytic Model as ***Sales - Analytic Model (Updated)*** in the folder **TECHED2025-DA264**. You need to confirm the warning "Renaming measure technical name might affect existing stories" once before saving and deploying the model. The Analytic Model is now accessing delta enabled local table which is receiving updated records. 
 We will reuse the previously created SAC Story and map it to the new updated Analytic Model so that the report displays the incoming sales transactions.
 
 29. Use the product switch button in the upper right corner to switch to SAC.
@@ -112,38 +112,35 @@ We will reuse the previously created SAC Story and map it to the new updated Ana
 
 31. Open the story  ***Revenue Analysis - Products (Updated)*** and switch to the ***Edit*** mode.
 
-32. To replace the model, access ***...*** -> ***Add New Data*** -> ***Sales__Analytic_Model*** 
+32. To replace the model, access ***...*** -> ***Add New Data*** -> ***Sales__Analytic_Model*** and select ***Replace***.
 <br>![](images/00_00_0030.png)  
 
-33. Select ***Replace***.
-<br>![](images/00_00_0030.5.png)  
-
-34. Read the warning displayed and click ***Continue***.
+33. Read the warning displayed and click ***Continue***.
 <br>![](images/00_00_0031.png)  
 
-35. Select ***select other model***. You can replace a model in your SAC story with another compatible model, an Analytic Model can be replaced with a different Analytic Model. Choose the connection ***DATASPHERE*** and click on the folder with your user's ID. Select the folder ***TECHED2024-DA180*** and click on the Analytic Model ***Sales - Analytic Model (Updated)***.
+34. Select ***select other model***. You can replace a model in your SAC story with another compatible model, an Analytic Model can be replaced with a different Analytic Model. Choose the connection ***SAPSRC*** and click on the folder with your user's ID. Select the folder ***TECHED2024-DA180*** and click on the Analytic Model ***Sales - Analytic Model (Updated)***.
 
-36. The replace model dialog displays the objects from the replacement model and the objects that need to be mapped (only objects used in the story are mapped). Some objects will automatically be mapped if they are similar to the original objects or if they are mandatory objects. Then they will be disabled (greyed out) in this panel. Map the measure ***Updated_Revenue*** to ***Revenue***. Check that the mappings are done correctly like displayed in the screenshot.
+35. The replace model dialog displays the objects from the replacement model and the objects that need to be mapped (only objects used in the story are mapped). Some objects will automatically be mapped if they are similar to the original objects or if they are mandatory objects. Then they will be disabled (greyed out) in this panel. Map the measure ***Updated_Revenue*** to ***Revenue***. Check that the mappings are done correctly like displayed in the screenshot.
 <br>![](images/00_00_0032.png)
 
-37. When you have finished mapping objects, select ***Review***. Verify that no issues have been found and click ***Replace Model***.
+36. When you have finished mapping objects, select ***Review***. Verify that no issues have been found and click ***Replace Model***.
 <br>![](images/00_00_0033.png)
 
-38. The story now accesses data from the new source. The filter for revenue per product is set to 2022. As there is no data available for this year, now data is displayed. We will modify the story in the next steps.
+37. The story now accesses data from the new source. The filter for revenue per product is set to 2024. As there is no data available for this year, now data is displayed. We will modify the story in the next steps.
 <br>![](images/00_00_0036.png)
 
-39. Select the chart ***Revenue per Product*** and remove the filter set for ***Transaction Date***.
+38. Select the chart ***Revenue per Product*** and remove the filter set for ***Transaction Date***.
 <br>![](images/00_00_0037.png)
 
-40. The revenue per product is displayed.
+39. The revenue per product is displayed.
 <br>![](images/00_00_0038.png)
 
-41. Now we focus on the chart on the right-hand side. We would like to receive a daily summary of recent sales of juices from the past few days. Open the wizard for drill-down when clicking onto the data point. Drill down on the transaction date until it is based on days (click twice on the ***Drill Down*** button).
+40. Now we focus on the chart on the right-hand side. We would like to receive a daily summary of recent sales of juices from the past few days. Open the wizard for drill-down when clicking onto the data point. Drill down on the transaction date until it is based on days (click twice on the ***Drill Down*** button).
 <br>![](images/00_00_0039.png)
 
-42. Save the story. You are asked if you want to remove the unused model, select ***Remove data source***.
+41. Save the story. You are asked if you want to remove the unused model, select ***Remove data source***.
 
-43. Your final report dynamically displays the most recent beverage sales, allowing you to analyze the changes in revenue from sold juices over the past few days.
+42. Your final report dynamically displays the most recent beverage sales, allowing you to analyze the changes in revenue from sold juices over the past few days.
 <br>![](images/00_00_0043.png)
 
 
