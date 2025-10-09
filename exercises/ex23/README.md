@@ -118,7 +118,7 @@ We will reuse the previously created SAC Story and map it to the new updated Ana
 33. Read the warning displayed and click ***Continue***.
 <br>![](images/00_00_0031.png)  
 
-34. Select ***select other model***. You can replace a model in your SAC story with another compatible model, an Analytic Model can be replaced with a different Analytic Model. Choose the connection ***SAPSRC*** and click on the folder with your user's ID. Select the folder ***TECHED2024-DA180*** and click on the Analytic Model ***Sales - Analytic Model (Updated)***.
+34. Select ***select other model***. You can replace a model in your SAC story with another compatible model, an Analytic Model can be replaced with a different Analytic Model. Choose the connection ***SAPSRC*** and click on the folder with your user's ID. Select the folder ***TECHED2025-DA264*** and click on the Analytic Model ***Sales - Analytic Model (Updated)***.
 
 35. The replace model dialog displays the objects from the replacement model and the objects that need to be mapped (only objects used in the story are mapped). Some objects will automatically be mapped if they are similar to the original objects or if they are mandatory objects. Then they will be disabled (greyed out) in this panel. Map the measure ***Updated_Revenue*** to ***Revenue***. Check that the mappings are done correctly like displayed in the screenshot.
 <br>![](images/00_00_0032.png)
@@ -126,16 +126,8 @@ We will reuse the previously created SAC Story and map it to the new updated Ana
 36. When you have finished mapping objects, select ***Review***. Verify that no issues have been found and click ***Replace Model***.
 <br>![](images/00_00_0033.png)
 
-37. The story now accesses data from the new source. The filter for revenue per product is set to 2024. As there is no data available for this year, now data is displayed. We will modify the story in the next steps.
-<br>![](images/00_00_0036.png)
-
-38. Select the chart ***Revenue per Product*** and remove the filter set for ***Transaction Date***.
-<br>![](images/00_00_0037.png)
-
-39. The revenue per product is displayed.
-<br>![](images/00_00_0038.png)
-
-40. Now we focus on the chart on the right-hand side. We would like to receive a daily summary of recent sales of juices from the past few days. Open the wizard for drill-down when clicking onto the data point. Drill down on the transaction date until it is based on days (click twice on the ***Drill Down*** button).
+37. The story now accesses data from the new source. 
+Now we focus on the chart on the right-hand side. We would like to receive a daily summary of recent sales of juices from the past few days. Open the wizard for drill-down when clicking onto the data point. Drill down on the transaction date until it is based on days (click twice on the ***Drill Down*** button).
 <br>![](images/00_00_0039.png)
 
 41. Save the story. You are asked if you want to remove the unused model, select ***Remove data source***.
