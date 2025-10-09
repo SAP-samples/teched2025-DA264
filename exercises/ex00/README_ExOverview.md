@@ -4,7 +4,7 @@ We structured the overall exercise the following way:
    * Use the blue path to finish early and enjoy exploring the system on your own
    * You can learn more and use the **Optional Exercises** for deep dives on different topics
   
-<br>![](images/DA180_Exercise_Overview.png)
+<br>![](images/DA264_Exercise_Overview.png)
 <br> <br> 
 ### Let us give you a brief introduction on what can you expect in the different parts of the exercise.
 <br> 
@@ -40,6 +40,12 @@ We structured the overall exercise the following way:
 * [explore more features of the Analytic Model](../ex22/README.md) 
 	
 * and learn about Transformation Flows by [Creating a Transformation Flow and the usage of delta tables ](../ex23/README.md) 
+
+## 5. **The final state after all exercises**
+      
+   When you have completed all the exercises you will have achieved a setup like you can see in the following illustration:
+
+<br>![](images/DA264_Final_State.png)
 
 
 ## Summary
