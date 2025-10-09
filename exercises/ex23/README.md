@@ -84,7 +84,7 @@ This functionality is beneficial for development activities when you need to tra
 21. Open the copied view ***Sales View - Fact (Updated)***. If you previously did the exercise about data access controls, the view does not look as displayed on the screenshot. Remove the join with ***ProductDim_DAC*** and the assigned DAC.
 <br>![](images/00_00_0022.png)  
 
-22. Drag and drop the table ***TECHED2024_SALES_TRANSACTIONS*** into the canvas and replace the original source table. 
+22. Drag and drop the table ***TECHED2025_SALES_TRANSACTIONS*** into the canvas and replace the original source table. 
 <br>![](images/00_00_0024.png)  
 
 23. Map the columns from the old source to the new source by dragging them from the left to the right side. Ensure that all nine columns are mapped and click ***Replace***.
