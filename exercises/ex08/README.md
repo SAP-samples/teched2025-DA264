@@ -57,7 +57,7 @@ In this exercise, we will create a story in SAP Analytics Cloud (SAC), which all
 
     ![](images/00_00_0215.png) 
 
-13. Open the list of members and select the year `2024`. Click ***OK***.
+13. Open the list of members and select the year `2025`. Click ***OK***.
 
     ![](images/00_00_0216_2.png)
 
