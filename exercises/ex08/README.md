@@ -89,7 +89,7 @@ In this exercise, we will create a story in SAP Analytics Cloud (SAC), which all
 
     ![](images/00_00_0229.png) 
 
-20. Use the time hierarchy defined for ***Transaction Date*** to perform a quarter-based analysis. Set the hierarchy to ***Year, Quarter, Month, Day*** by clicking on ***Change Hierarchy***. Adjust the level to ***Level 2*** so that the revenue is displayed per quarter.
+20. Use the time hierarchy defined for ***Transaction Date*** to perform a quarter-based analysis. Set the hierarchy to ***Year, Quarter, Month, Day*** by clicking on ***Change Hierarchy***. Adjust the level to ***Level 3*** so that the revenue is displayed per quarter.
 
     ![](images/00_00_0232.png) 
 
