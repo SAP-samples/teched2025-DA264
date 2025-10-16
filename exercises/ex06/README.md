@@ -87,11 +87,15 @@ In this exercise, we will create a new view of the semantic type dimension based
     ![](images/00_00_0775.png) 
 
 24. Click ***Close***.
-25. In the same view properties panel for ***Dimension Store***, Click on the button under ***Data Validation Status*** and click on ***Validate***
+25. In the toolbar in the ***General*** menu, use the option to save your view in the folder `TECHED2025-DA264`.
+26. After saving your dimension view, ensure you deploy the view.
+  
+    ![](images/00_00_0776.png) 
+27. In the same view properties panel for ***Dimension Store***, Click on the button under ***Data Validation Status*** and click on ***Validate***
 
     ![](images/00_00_0777.png) 
 
-26. Once validation is complete, you can review the Keys, Data Types, and Hierarchies defined in this dimension. This is the ***Data Validation Framework*** in SAP Datasphere, providing initial validation rules to check the consistency of your view key columns and hierarchy nodes.
+28. Once validation is complete, you can review the Keys, Data Types, and Hierarchies defined in this dimension. This is the ***Data Validation Framework*** in SAP Datasphere, providing initial validation rules to check the consistency of your view key columns and hierarchy nodes.
 There is one result for each rule and it shows the following information:
 
    | Column             | Description                                                                                                        |
@@ -105,11 +109,6 @@ There is one result for each rule and it shows the following information:
 
    ![](images/00_00_0778.png)  
  
-27. In the toolbar in the ***General*** menu, use the option to save your view in the folder `TECHED2025-DA264`.
-
-28. After saving your dimension view, ensure you deploy the view.
-  
-    ![](images/00_00_0776.png) 
 
 ## Summary
 
