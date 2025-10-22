@@ -1,7 +1,8 @@
 # Get your basic trial access 
 
 First you need to get your basic trial access of SAP Business Data Cloud (mandatory). 
-📝 Note: If you are part of the TechEd hands-on session, you will get a user and connection details in the room in Berlin. 
+
+> :memo: **Note:**: If you are part of the TechEd hands-on session, you will get a user and connection details in the room in Berlin. 
 
 You could use any SAP Business Data Cloud system with an active SAP Datasphere and SAP Analytics Cloud Tenant you have access to, as all the required files for the core exercises are provided as part of this GitHub repository. 
 
