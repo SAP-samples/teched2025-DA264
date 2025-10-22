@@ -11,7 +11,7 @@ We will now import the table definitions in form of a JSON file by importing a E
 
 1. Log On to your SAP Datasphere tenant.
 2. Select the menu option ***Data Builder*** on the left-hand side.
-3. Create a new folder to organize the entities you will create in this jump-start session. Enter `TECHED2025-DA264` as business name and confirm. A new folder is displayed in the object list.
+3. Create a new folder to organize the entities you will create in this hands-on session. Enter `TECHED2025-DA264` as business name and confirm. A new folder is displayed in the object list.
 <br>![](images/00_00_0001.png)
 
 4. Select the option ***New Entity–Relationship Model***.
