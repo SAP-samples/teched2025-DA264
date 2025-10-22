@@ -21,7 +21,7 @@ Find out how SAP Datasphere helps line-of-business users get the job done. Disco
 * Access to this GitHub repository 
 * Access to any SAP Datasphere and SAP Analytics Cloud system. In case you do not have access you can use a basic trial. The optional exercise #23 is only working using a basic trial.
 * You will also need a set of files for these exercises  <br>
-Download the ZIP-file from the GitHub site: :arrow_right: [DA264_Resources.zip](DA264_Resources.zip) (button "download raw file")
+Download the ZIP-file from the GitHub site: :arrow_right: ([DA264_Resources.zip](https://github.com/SAP-samples/teched2025-DA264/raw/refs/heads/main/DA264_Resources.zip)) (button "download raw file")
 
 > :warning: **Once downloaded to your local machine, please unzip the file into a separate folder.** <br>
 > :warning: **You will need it for the exercises. So, please remember the file location of the unzipped files!**
@@ -69,10 +69,6 @@ The exercises in section 4 are all optional. You can explore how to:
     
 Have fun :smiley:
 
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
