@@ -76,7 +76,7 @@ In this exercise, we will create a new view of the semantic type dimension based
 
 19. Navigate to the properties on the right-hand side.
 
-20. Navigate to the ***Attributes*** area. 
+20. Scroll down to the ***Attributes*** area. 
 21. Use the pencil icon (top right area) to open the details for the Attributes.
   
     ![](images/00_00_0774.png)
