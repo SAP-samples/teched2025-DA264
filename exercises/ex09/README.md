@@ -102,6 +102,6 @@ You've now created your second story in SAP Analytics Cloud using the preconfigu
 
 You can continue with one of the _optional_ exercises:
 - [Exercise 20: Identify Top-Performing Sales Managers with Just Ask](../ex20/README.md)
-- [Exercise 21: Create Row-Level Permissions based on External Hierarchy)](../ex21/README.md)
+- [Exercise 21: Create Row-Level Permissions based on External Hierarchy](../ex21/README.md)
 - [Exercise 22: Explore the Analytic Model](../ex22/README.md)
-- [Exercise 23: Create a Transformation Flow)](../ex23/README.md)
+- [Exercise 23: Create a Transformation Flow](../ex23/README.md)
