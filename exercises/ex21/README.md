@@ -104,7 +104,7 @@ A permission entity (view or table) lists SAP Datasphere user IDs (in the form r
 
 | Record ID | User ID                           | Product Category |
 |-----------|-----------------------------------|------------------|
-| 1         | geXXXXXX@sapexperienceacademy.com | Non-Alcoholic    |
+| 1         | ACXXXXXX@sapexperienceacademy.com | Non-Alcoholic    |
 
 8. Save the added record.
 
