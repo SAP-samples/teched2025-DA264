@@ -1,3 +1,10 @@
+# Access Teched Systems
+
+<br>1.[SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html#/home)
+<br>2.[SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
+<br>3.Log in with user AC249258U** replacing ** with your desk number, 01, 02, etc.. The number is displayed next to the TechEd laptop
+<br>4.Log in with password ObaHuRSyEQ1!
+
 # Get your basic trial access 
 
 First you need to get your basic trial access of SAP Business Data Cloud (mandatory). 
