@@ -19,7 +19,16 @@ Find out how SAP Datasphere helps line-of-business users get the job done. Disco
 
 * Google Chrome Browser or Microsoft Edge based on the Chromium engine
 * Access to this GitHub repository 
-* Access to any SAP Datasphere and SAP Analytics Cloud system. In case you do not have access you can use a basic trial. The optional exercise #23 is only working using a basic trial.
+* [Access to GitHub Repository](https://github.com/SAP-samples/teched2025-DA264)
+
+  **Important Note:** The landscape used during SAP TechEd will be available until **November 29th**. Until then, you can reuse your existing content in your user space and finalize the exercises in case you did not have sufficient time during the workshop.
+
+* [Access to SAP Datasphere tenant](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/)  
+* [Access to SAP Analytics Cloud tenant](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/)
+
+  * User-ID: AC249258Uxx, where XX are the last 2 digits assigned by the trainers onsite at SAP TechEd.  
+  * Password: ObaHuRSyEQ1!
+
 * You will also need a set of files for these exercises  <br>
 Download the ZIP-file from the GitHub site: :arrow_right: ([DA264_Resources.zip](https://github.com/SAP-samples/teched2025-DA264/raw/refs/heads/main/DA264_Resources.zip)) (button "download raw file")
 
