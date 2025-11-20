@@ -23,6 +23,7 @@ Find out how SAP Datasphere helps line-of-business users get the job done. Disco
 
   **Important Note:** The landscape used during SAP TechEd will be available until **November 29th**. Until then, you can reuse your existing content in your user space and finalize the exercises in case you did not have sufficient time during the workshop.
 
+* [Access to SAP Business Data Cloud tenant](https://trial-bdc-core-3.eu10.hcs.cloud.sap/bdc-ui/index.html#/bdc_home) 
 * [Access to SAP Datasphere tenant](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/)  
 * [Access to SAP Analytics Cloud tenant](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/)
 
