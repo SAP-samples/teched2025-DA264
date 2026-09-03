@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2025-DA264)](https://api.reuse.software/info/github.com/SAP-samples/teched2025-DA264)
+
 # DA264 - SAP Business Data Cloud: Explore the analytical components end to end
 
 ## Description
